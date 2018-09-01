@@ -1,0 +1,9 @@
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\src\core\sys.c
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\src\include\lwip/opt.h
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\test\unit\lwipopts.h
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\src\include\lwip/debug.h
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\src\include\lwip/arch.h
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\archport\arch/cc.h
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\archport\arch/cpu.h
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\src\include\lwip/opt.h
+.\obj\sys.o: ..\GNU源码\lwip-1.4.1\src\include\lwip/sys.h

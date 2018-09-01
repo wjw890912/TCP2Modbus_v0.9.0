@@ -1,0 +1,15 @@
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\mb_m.c
+.\obj\mb_m.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\obj\mb_m.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\port\port.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\include\mbconfig.h
+.\obj\mb_m.o: C:\Keil\ARM\RV31\INC\assert.h
+.\obj\mb_m.o: C:\Keil\ARM\RV31\INC\inttypes.h
+.\obj\mb_m.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\include\mb.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\include\mbport.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\include\mbproto.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\include\mb_m.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\include\mbframe.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\include\mbfunc.h
+.\obj\mb_m.o: ..\modbus\freemodbus-v1.6.0\modbus\rtu\mbrtu.h

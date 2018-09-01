@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\mister-wang\Desktop\TCP2Modbus_v0.8.0+433\Net2Modbus\Lwip1.4.1+efls ByWang\SDK\lwip_gnu.uvproj
+Project File Date:  08/11/2018
+
+<h2>Output:</h2>
+Build target 'iap_lwip2modbus'
+linking...
+Program Size: Code=60600 RO-data=756 RW-data=524 ZI-data=52716  
+FromELF: creating hex file...
+User command #1: fromelf.exe --bin -o "C:\Users\mister-wang\Desktop\TCP2Modbus_v0.8.0+433\Net2Modbus\Lwip1.4.1+efls ByWang\SDK\obj\lwip_gnu.bin" "C:\Users\mister-wang\Desktop\TCP2Modbus_v0.8.0+433\Net2Modbus\Lwip1.4.1+efls ByWang\SDK\obj\lwip_gnu.axf"
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
+Build target 'iap_lwip2modbus'
+linking...
+Program Size: Code=60600 RO-data=756 RW-data=524 ZI-data=52716  
+FromELF: creating hex file...
+User command #1: fromelf.exe --bin -o "C:\Users\mister-wang\Desktop\TCP2Modbus_v0.8.0+433\Net2Modbus\Lwip1.4.1+efls ByWang\SDK\obj\lwip_gnu.bin" "C:\Users\mister-wang\Desktop\TCP2Modbus_v0.8.0+433\Net2Modbus\Lwip1.4.1+efls ByWang\SDK\obj\lwip_gnu.axf"
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
